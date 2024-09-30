@@ -14,11 +14,11 @@ public class Eg13 {
     
 }
 
-class M {
-       void method() throws IOException {
-        System.out.println("Device operation performed");
-    }
-}
+//class M {
+//       void method() throws IOException {
+//        System.out.println("Device operation performed");
+//    }
+//}
 /*
                             THROW
  * Java throw keyword is used throw an exception explicitly in the code, inside the function or the block of code.
